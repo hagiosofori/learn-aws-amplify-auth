@@ -1,6 +1,7 @@
-*Mastering Amplify Authentication in React (Native)*
+***Mastering Amplify Authentication in React (Native)***
+[AWS Amplify Authentication](https://aws-amplify.github.io/docs/js/authentication)
 
-*doing each of these in a new branch*
+***doing each of these in a new branch***
 
 - simple auth
 - social provider federation, with facebook, google
